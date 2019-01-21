@@ -8,7 +8,7 @@
 
 ![](images/imagelogin01.png)
 
-3. You can login with **work or school acccount** and **linkedin account**
+3. You can login with **work or school acccount** and **linkedin account**, select account and proceed.
 
 ![](images/imagelogin2.png)
 
