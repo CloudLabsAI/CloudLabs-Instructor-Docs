@@ -4,7 +4,7 @@
 
 1. Navigate to: **https://admin.cloudlabs.ai/** to login into CloudLabs Portal
 
-2. Click on **Log In** button on the top right corner.
+2. Click on **Log In** button on right top of the page & Log-in.
 
 ![](images/imagelogin01.png)
 
