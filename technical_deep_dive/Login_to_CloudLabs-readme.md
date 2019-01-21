@@ -12,8 +12,8 @@
 
    ![](images/imagelogin2.png)
 
-4. Once login successfully, Select the Tenant as per requirement.
+4. Once login successfully, select the **Tenant** as shown below.
 
-  ![](images/imagelogin3.png)
+   ![](images/imagelogin3.png)
 
 
