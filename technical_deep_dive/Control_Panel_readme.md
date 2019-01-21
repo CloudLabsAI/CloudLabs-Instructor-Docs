@@ -9,6 +9,8 @@ Manage the resources inside control panel with following features:
 3. Virtual Machine Usage:
 > You can find the VM usage hours by clicking on **VM usage** option 
 
+ ![](images/vmmanages.png)
+
    
  
  
