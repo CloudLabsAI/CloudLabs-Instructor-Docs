@@ -1,6 +1,8 @@
+# View Users Page
 
+Click on Users option to get users details:
 
-# a. Getting user lab details
+a. Getting user lab details
 
 
 
