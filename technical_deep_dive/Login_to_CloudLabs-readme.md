@@ -10,6 +10,6 @@
 
 3. You can login with **work or school acccount** and **linkedin account**
 
-![](images/imagelogin01.png)
+![](images/imagelogin2.png)
 
 
