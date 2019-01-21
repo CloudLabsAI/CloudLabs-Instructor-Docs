@@ -1,6 +1,6 @@
 # View Users Page
 
-Click on Users option to get users details:
+Click on **Users** option as shown below:
 ![](images/users.png)
 
 a. Getting user lab details
