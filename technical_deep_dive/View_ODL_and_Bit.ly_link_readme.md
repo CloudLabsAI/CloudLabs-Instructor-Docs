@@ -4,7 +4,7 @@
 ![](images/odl.png)
   
 > On the same page, you can view the **bit.ly** url (signup url):
-![](images/bitly.png)
+![](images/bitly01.png)
  
 
 
