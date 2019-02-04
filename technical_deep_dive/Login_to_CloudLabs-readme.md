@@ -12,7 +12,7 @@
 
    ![](images/linkedin.png)
 
-4. Then, enter your **Linkedin Email** and **Password**
+4. Then, enter your **Linkedin Email** and **Password** and Click on **SignIn**
    ![](images/linkcred.png)
 
 
