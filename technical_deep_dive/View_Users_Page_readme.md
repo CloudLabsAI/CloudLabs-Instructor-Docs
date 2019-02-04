@@ -1,5 +1,5 @@
 # View Users Page
-## On the On Demand Labs page, you can see the option for users
+## You shoud've open the ODL(on demand labs) to get users details.
 Click on **Users** option as shown below:
 ![](images/user21.png)
 
