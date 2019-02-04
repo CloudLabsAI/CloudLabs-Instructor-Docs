@@ -10,10 +10,10 @@
 
 3. You can login with **Linkedin Account**, select account type as Linkedin and proceed.
 
-   ![](images/imagelogin2.png)
+   ![](images/linkedin.png)
 
 4. Once login successfully, select the **Tenant** as shown below.
 
-   ![](images/imagelogin3.png)
+   ![](images/linkcred.png)
 
 
