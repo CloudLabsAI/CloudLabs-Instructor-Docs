@@ -5,7 +5,7 @@ Click on **Users** option as shown below:
 
 a. Getting user lab details
 
-
+![](images/labstatus1.png)
 
 b. Sending email to users with lab details
 
