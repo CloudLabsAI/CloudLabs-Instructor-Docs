@@ -1,7 +1,7 @@
 # View Users Page
 
 Click on **Users** option as shown below:
-![](images/users.png)
+![](images/user21.png)
 
 a. Getting user lab details
 
