@@ -3,7 +3,7 @@
 Click on **Users** option as shown below:
 ![](images/user21.png)
 
-a. Getting user lab details
+a. Getting user lab details, Click on User's lab status option as shown in below image:
 
 ![](images/labstatus1.png)
 
