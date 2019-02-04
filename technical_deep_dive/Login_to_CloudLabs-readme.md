@@ -12,8 +12,7 @@
 
    ![](images/linkedin.png)
 
-4. Once login successfully, select the **Tenant** as shown below.
-
+4. Then, enter your **Linkedin Email** and **Password**
    ![](images/linkcred.png)
 
 
