@@ -20,9 +20,13 @@
 
   ![](images/vmusage.png)
 
-4. You can also schedule the task like Stop/Start Vms as per your requirements:
+4. You can also schedule the tasks like Stop/Start Vms as per your requirements:
 
   ![](images/tasksch.png)
+  
+* You'd need to add the schedule as shown below:
+
+  ![](images/taskadd.png)
  
  
 
