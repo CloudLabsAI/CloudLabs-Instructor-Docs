@@ -20,11 +20,11 @@
 
   ![](images/vmusage.png)
 
-4. You can also schedule the tasks like Stop/Start Vms as per your requirements:
+4. You can also schedule the tasks like Stop/Start Vms as per your requirements, Click on Task scheduler:
 
   ![](images/tasksch.png)
   
-* You'd need to add the schedule as shown below:
+* You'd need to add the schedule, following is showing adding schedule for Stop VM:
 
   ![](images/taskadd.png)
  
