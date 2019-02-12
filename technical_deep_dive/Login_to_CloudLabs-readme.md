@@ -16,14 +16,14 @@
 
 >**Select the account which is onboarded on CloudLabs.**
 
-a If your Work account is onboarded, select Work or School account:
+4. If your Work account is onboarded, select Work or School account:
    ![](images/work.png)
   
 * Enter your credentials and Sign In
    
    ![](images/worksign.png)
 
-b If your LinkedIn account is onboarded, select LinkedIn account:
+5. If your LinkedIn account is onboarded, select LinkedIn account:
    
    ![](images/linkedin.png)
     
