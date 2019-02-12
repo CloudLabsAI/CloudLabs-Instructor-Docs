@@ -2,14 +2,15 @@
 
 ## Please follow the below steps:
 
-1. Navigate to: **https://admin.cloudlabs.ai/** to login.
+1. Navigate to **CloudLabs Admin Portal**: https://admin.cloudlabs.ai/
 
-2. Click on **Log In** button on right top of the page & Sing-in.
+2. Click on **Log In** button on right top of the page
 
    ![](images/login.png)
 
-3. You can login with **Linkedin Account**, select account type as Linkedin and proceed.
-
+3. You have following Login Options
+* Azure Active Directory (Work or School Account)
+* LinkedIn
    ![](images/linkedin.png)
 
 4. Then, enter your **Linkedin Email** and **Password** and Click on **SignIn**
