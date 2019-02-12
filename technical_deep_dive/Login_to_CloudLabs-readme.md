@@ -8,7 +8,7 @@
 
 2. Click on **Log In** button on right top of the page
 
-   ![](images/login.png)
+  ![](images/login.png)
 
 3. You have following Login Options
    a. **Azure Active Directory** (Work or School Account)
@@ -18,16 +18,16 @@
 
 a. If your Work account is onboarded, select Work or School account:
 
-    ![](images/work.png)
+   ![](images/work.png)
   
 * Enter your credentials and Sign In
 
-    ![](images/worksign.png)
+   ![](images/worksign.png)
 
 b. If your LinkedIn account is onboarded, select LinkedIn account:
   
-    ![](images/linkedin.png)
+   ![](images/linkedin.png)
     
 * Enter your LinkedIn credentials and Sign In
 
-    ![](images/linksign.png)
+   ![](images/linksign.png)
