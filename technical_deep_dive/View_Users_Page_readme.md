@@ -34,3 +34,13 @@ d. You can also open the lab details page and send the URL to user by following 
 * Copy the URL form this tab, share with the user:
 
  ![](images/urllab.png)
+
+e. Delete and Reset the user lab:
+
+* If you want to delete the user's lab environment, click on delete option:
+
+ ![](images/delete.png)
+ 
+* If you want to reset the user's lab environment, click on reset option:
+
+ ![](images/reset.png)
