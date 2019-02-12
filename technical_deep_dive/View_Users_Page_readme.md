@@ -8,10 +8,14 @@ a. You'll see the users list inside Users panel, click on lab status option to g
 
  ![](images/userdetails.png)
 
-b. Extend the user lab duration:
- **if you'd need to extend the users lab duration you can extend as shown below:**
-  
+b. Extend the user lab duration, follow the below steps:
+* Click on extend duration option as shown below:
+
  ![](images/labextend.png)
+ 
+* Enter the value in Hours as per the requirement and click on Ok
+  
+![](images/hours.png)
 
 
 c. Deleting/reset user's lab
