@@ -1,6 +1,6 @@
 # Login to CloudLabs Portal
 
-## Please follow the below steps:
+## Folow the below steps:
 
 1. Navigate to **CloudLabs Admin Portal**: https://admin.cloudlabs.ai/
 
