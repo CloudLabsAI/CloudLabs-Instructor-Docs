@@ -11,12 +11,12 @@
    ![](images/login.png)
 
 3. You have following Login Options
-   * **Azure Active Directory** (Work or School Account)
-   * **LinkedIn**
+   a. **Azure Active Directory** (Work or School Account)
+   b. **LinkedIn**
 
 >**Select the account which is onboarded on CloudLabs.**
 
-4. If your Work account is onboarded, select Work or School account:
+a. If your Work account is onboarded, select Work or School account:
 
     ![](images/work.png)
   
@@ -24,7 +24,7 @@
 
     ![](images/worksign.png)
 
-5. If your LinkedIn account is onboarded, select LinkedIn account:
+b. If your LinkedIn account is onboarded, select LinkedIn account:
   
     ![](images/linkedin.png)
     
