@@ -14,10 +14,11 @@
    * **Azure Active Directory** (Work or School Account)
    * **LinkedIn**
 
-   ![](images/linkedin.png)
+> Select the account which is onboarded on CloudLabs.
 
-4. If you've your LinkedIn account, select LinkedIn and enter your LinkedIn credentials, click on **SignIn**
+4. If your LinkedIn account is onboarded, select LinkedIn and enter your LinkedIn credentials, click on **SignIn**
   
-   ![](images/linkcred.png)
+  
+  ![](images/linkcred.png)
 
 
