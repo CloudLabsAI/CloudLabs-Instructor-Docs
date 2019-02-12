@@ -16,7 +16,10 @@
 
 > Select the account which is onboarded on CloudLabs.
 
-4. If your LinkedIn account is onboarded, select LinkedIn and enter your LinkedIn credentials, click on **SignIn**
+4. If your Azure Active Directory account is onboarded, select Work or School account and enter your credentials, click on **SignIn**
+
+    ![](images/work.png)
+If your LinkedIn account is onboarded, select LinkedIn and enter your LinkedIn credentials, click on **SignIn**
   
   
   ![](images/linkcred.png)
