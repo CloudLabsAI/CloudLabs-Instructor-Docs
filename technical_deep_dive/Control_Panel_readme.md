@@ -26,7 +26,7 @@
   
 * You'd need to add the schedule, following is showing adding schedule for Stop VM:
 
-  ![](images/taskadd.png)
+ ![](images/taskadd.png)
  
  
 
