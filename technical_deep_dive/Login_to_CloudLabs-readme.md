@@ -20,6 +20,6 @@
 
     ![](images/work.png)
   
-* Enter your credentials and signin
+* Enter your credentials and Sign In
 
     ![](images/worksign.png)
