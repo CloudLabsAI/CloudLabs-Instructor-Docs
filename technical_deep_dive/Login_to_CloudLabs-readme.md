@@ -11,12 +11,12 @@
    ![](images/login.png)
 
 3. You have following Login Options
-   * Azure Active Directory (Work or School Account)
-   * LinkedIn
+   * **Azure Active Directory** (Work or School Account)
+   * **LinkedIn**
 
    ![](images/linkedin.png)
 
-4. Then, enter your **Linkedin Email** and **Password** and Click on **SignIn**
+4. If you've your LinkedIn account, select LinkedIn and enter your LinkedIn credentials, click on **SignIn**
   
    ![](images/linkcred.png)
 
