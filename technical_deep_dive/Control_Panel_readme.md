@@ -18,9 +18,11 @@
 3. Virtual Machine Usage:
 > You can find the VM usage hours by clicking on **VM usage** option 
 
- ![](images/vmusage.png)
+  ![](images/vmusage.png)
 
-   
+4. You can also schedule the task like Stop/Start Vms as per your requirements:
+
+  ![](images/tasksch.png)
  
  
 
