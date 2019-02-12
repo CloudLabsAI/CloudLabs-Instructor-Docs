@@ -4,7 +4,7 @@ Open **Users** panel as shown below:
 
  ![](images/useropen.png)
 
-a. YOu'll see the users list, click on lab status option to get more details:
+a. You'll see the users list inside Users panel, click on lab status option to get more details:
 
  ![](images/userdetails.png)
 
