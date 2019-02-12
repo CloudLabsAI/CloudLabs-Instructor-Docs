@@ -6,7 +6,7 @@
 
 2. Click on **Log In** button on right top of the page & Sing-in.
 
-   ![](images/imagelogin01.png)
+   ![](images/login.png)
 
 3. You can login with **Linkedin Account**, select account type as Linkedin and proceed.
 
