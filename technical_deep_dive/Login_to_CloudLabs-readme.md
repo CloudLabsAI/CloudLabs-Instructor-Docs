@@ -23,3 +23,11 @@
 * Enter your credentials and Sign In
 
     ![](images/worksign.png)
+
+5. If your LinkedIn account is onboarded, select LinkedIn account:
+  
+    ![](images/link.png)
+    
+* Enter your LinkedIn credentials and Sign In
+
+    ![](images/linksign.png)
