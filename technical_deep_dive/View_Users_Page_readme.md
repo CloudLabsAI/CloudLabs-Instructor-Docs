@@ -18,4 +18,10 @@ b. Extend the user lab duration, follow the below steps:
 ![](images/hours.png)
 
 
-c. Deleting/reset user's lab
+c. Send email to user with lab details, click on send invite button as shown below:
+
+![](images/email.png)
+
+User will recieve email with lab details like:
+  * Azure username, password
+  * Lab Vm DNS name, Lab Vm username, password, etc
