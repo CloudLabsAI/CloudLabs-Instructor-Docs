@@ -1,7 +1,8 @@
 # View Users Page
 ## You should've open the ODLs(on demand labs) to get users details.
 Click on **Users** option as shown below:
-![](images/user21.png)
+
+ ![](images/useropen.png)
 
 a. Getting user lab details, Click on **View lab status** option as shown in below image:
 
