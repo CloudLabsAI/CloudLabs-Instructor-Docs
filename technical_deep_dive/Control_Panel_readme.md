@@ -1,6 +1,6 @@
 # Control Panel:
 
-Manage the resources inside control panel with following features:
+>**You can manages the recources like VMs, Databricks Clusters, etc from Control panel.
 
 1. Stop the Virtual Machines: 
 > If you want to stop all the Virtual Machines for a particular ODL, you can stop all VMs together by clicking on **Stop VM**
