@@ -11,8 +11,8 @@
   ![](images/login.png)
 
 3. You have following Login Options:
-   a. **Azure Active Directory** (Work or School Account)
-   b. **LinkedIn**
+* Azure Active Directory (Work or School account)
+* LinkdeIn
 
 >**Select the account which is onboarded on CloudLabs.**
 
