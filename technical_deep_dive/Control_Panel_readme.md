@@ -1,3 +1,5 @@
+[Home](./../README.md)
+
 # Control Panel:
 
 >**You can manages the recources like VMs, Databricks Clusters, SQL data warehouse, and so on.. from Control panel.**
