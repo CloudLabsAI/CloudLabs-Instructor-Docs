@@ -23,10 +23,14 @@ c. Send email to user with lab details, click on send invite button as shown bel
 ![](images/email.png)
 
 >User will recieve email with lab details like:
-  * Azure username, password
-  * Lab Vm DNS name, Lab Vm username, password, etc
+>Azure Username, Password
+>Lab VM DNS name, VM username,  VM Password, etc
 
 * You can also open the lab details page and send the URL to user by following below steps:
 * Open invite link in new tab:
 
  ![](images/labdetails.png)
+
+* Copy the URL form this tab, share with the user:
+
+ ![](images/urllab.png)
