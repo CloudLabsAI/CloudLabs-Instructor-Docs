@@ -16,7 +16,7 @@
 
 >**Select the account which is onboarded on CloudLabs.**
 
-a. If your Work account is onboarded, select Work or School account:
+ a. If your Work account is onboarded, select Work or School account:
 
    ![](images/work.png)
   
@@ -24,7 +24,7 @@ a. If your Work account is onboarded, select Work or School account:
 
    ![](images/worksign.png)
 
-b. If your LinkedIn account is onboarded, select LinkedIn account:
+ b. If your LinkedIn account is onboarded, select LinkedIn account:
   
    ![](images/linkedin.png)
     
