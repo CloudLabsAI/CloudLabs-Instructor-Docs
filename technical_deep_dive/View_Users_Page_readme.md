@@ -1,14 +1,16 @@
 # View Users Page
 ## You should've open the ODLs(on demand labs) to get users details.
-Click on **Users** option as shown below:
+Open **Users** panel as shown below:
 
  ![](images/useropen.png)
 
-a. Getting user lab details, Click on **View lab status** option as shown in below image:
+a. YOu'll see the users list, click on lab status option to get more details:
 
-![](images/labstatus1.png)
+ ![](images/userdetails.png)
 
-b. Sending email to users with lab details
+b. Extend the user lab duration:
+  
+ ![](images/labextend.png)
 
 
 c. Deleting/reset user's lab
