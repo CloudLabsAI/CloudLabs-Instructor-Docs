@@ -1,6 +1,6 @@
 # Control Panel:
 
->**You can manages the recources like VMs, Databricks Clusters, and so on.. from Control panel.**
+>**You can manages the recources like VMs, Databricks Clusters, SQL data warehouse, and so on.. from Control panel.**
 
 * Open the control panel as shown in below image:
  
