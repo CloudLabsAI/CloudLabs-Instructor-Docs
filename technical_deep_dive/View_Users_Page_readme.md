@@ -9,6 +9,7 @@ a. You'll see the users list inside Users panel, click on lab status option to g
  ![](images/userdetails.png)
 
 b. Extend the user lab duration:
+ **if you'd need to extend the users lab duration you can extend as shown below:**
   
  ![](images/labextend.png)
 
