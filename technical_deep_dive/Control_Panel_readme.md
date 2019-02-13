@@ -16,7 +16,7 @@
 
 2. Start the Virtual Machines:
 
-**If you want to stop all the Virtual Machines for a particular ODL, you can start all VMs together by clicking on **Start VM**.
+**If you want to stop all the Virtual Machines for a particular ODL, you can start all VMs together by clicking on Start VM**.
  
  ![](images/startvm.png)
 
