@@ -6,7 +6,7 @@
 
 * Open the control panel as shown in below image:
  
-  ![](images/control1.png)
+ ![](images/control1.png)
   
 1. Stop the Virtual Machines: 
 > If you want to stop all the Virtual Machines for a particular ODL, you can stop all VMs together by clicking on **Stop VM**
