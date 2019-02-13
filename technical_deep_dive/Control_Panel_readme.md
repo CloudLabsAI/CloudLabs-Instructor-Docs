@@ -22,7 +22,7 @@ If you want to stop all the Virtual Machines for a particular ODL, you can start
 
 3. Virtual Machine Usage.
 
-You can find the VM usage hours by clicking on VM usage option.**
+You can find the VM usage hours by clicking on VM usage option.
  
  ![](images/vmusage.png)
 
