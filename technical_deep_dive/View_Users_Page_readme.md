@@ -14,7 +14,7 @@ b. To extend the user lab duration, follow the steps below:
 
  ![](images/labextend.png)
  
-* Enter the value in Hours as per the requirement and click on Ok
+* Enter the value in Hours to add on to the Hours remaining in the duration column and click on Ok
   
 ![](images/hours.png)
 
