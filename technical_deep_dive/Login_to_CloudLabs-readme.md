@@ -8,24 +8,24 @@
 
 >**If you are not yet onboarded, reach out to cloudlabs@spektrasystems.com.**
 
-2. Click on **Log In** button on right top of the page
+1. Click on **Log In** button on right top of the page
 
   ![](images/login.png)
 
-3. You have following Login Options:
+1. You have following Login Options:
 * **Azure Active Directory** (Work or School account)
 * **LinkdeIn**
 
 >**Select the account which is onboarded on CloudLabs.**
 
-4. If your Work account is onboarded, select Work or School account:
+1. If your Work account is onboarded, select Work or School account:
    ![](images/work.png)
   
 * Enter your credentials and Sign In
    
    ![](images/worksign.png)
 
-5. If your LinkedIn account is onboarded, select LinkedIn account:
+1. If your LinkedIn account is onboarded, select LinkedIn account:
    
    ![](images/linkedin.png)
     
