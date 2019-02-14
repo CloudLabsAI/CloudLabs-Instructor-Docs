@@ -5,7 +5,7 @@ In the ON Demand Labs page open **Users** panel corresponding to the ODL as show
 
  ![](images/useropen.png)
 
-a. You'll see the users list inside Users panel, click on lab status option to get more details:
+a. You'll see the user list inside Users panel, click on lab status option to get more details:
 
  ![](images/userdetails.png)
 
