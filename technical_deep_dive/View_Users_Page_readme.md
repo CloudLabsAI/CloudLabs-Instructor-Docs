@@ -1,8 +1,7 @@
 [Home](./../README.md)
 
 # View Users Page
-## You should've open the ODLs(on demand labs) to get users details.
-Open **Users** panel as shown below:
+In the ON Demand Labs page open **Users** panel corresponding to the ODL as shown below:
 
  ![](images/useropen.png)
 
