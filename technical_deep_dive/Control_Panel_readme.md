@@ -14,7 +14,7 @@ If you want to stop all the Virtual Machines for a particular ODL, you can start
 4. Virtual Machine Usage.
 You can find the VM usage hours by clicking on VM usage option.  
  ![](images/vmusage.png) 
-5. You can also schedule the tasks like Stop/Start Vms as per your requirements, click on Task scheduler.
+5. You can also schedule the tasks like Stop/Start Vms as per your requirements,click on task scheduler.
 ![](images/tasksch.png)
 6. You'd need to add the schedule, following is showing adding schedule for Stop VM.
 ![](images/taskadd.png)
