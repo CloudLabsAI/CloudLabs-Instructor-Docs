@@ -6,8 +6,8 @@
 1. Open the control panel as shown in below image. 
  ![](images/controlpanel.png)  
 2. Stop the Virtual Machines.
-   If you want to stop all the Virtual Machines for a particular ODL, you can stop all VMs together by clicking on **Stop VM**.
- ![](images/stopvm1.png) 
+   If you want to stop all the Virtual Machines for a particular ODL, you can stop all VMs together by clicking on **Stop VM**.  
+  ![](images/stopvm1.png) 
 3. Start the Virtual Machines.
 If you want to stop all the Virtual Machines for a particular ODL, you can start all VMs together by clicking on **Start VM**.   
  ![](images/startvm.png)
