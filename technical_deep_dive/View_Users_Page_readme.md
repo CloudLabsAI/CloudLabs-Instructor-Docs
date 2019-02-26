@@ -19,7 +19,7 @@ b. To extend the user lab duration, follow the steps below:
 ![](images/hours.png)
 
 
-c. To send email to user with lab details, click on send invite button as shown below:
+c. To send email to user with lab details, click on send invite option as shown below:
 
 ![](images/sendinvite.png)
 
