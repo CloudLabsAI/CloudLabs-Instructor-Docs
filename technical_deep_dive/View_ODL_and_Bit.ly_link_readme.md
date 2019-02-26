@@ -2,7 +2,6 @@
 
 # View ODL(On Demand Labs) and bit.ly link:
 
-## **View ODL**:
 > Once you logged in to CloudLabs portal, click on **On Demand Labs**, then you can see the list of **ODLs** and **bit.ly link**:
 ![](images/viewODL.png)
 
