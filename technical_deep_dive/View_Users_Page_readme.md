@@ -12,7 +12,7 @@ a. You'll see the user list inside Users panel, click on lab status option to ge
 b. To extend the user lab duration, follow the steps below:
 * Click on extend duration option as shown below:
 
- ![](images/labextend.png)
+ ![](images/extenddur.png)
  
 * Enter the value in hours to add on to the Hours remaining in the duration column and click on Ok
   
