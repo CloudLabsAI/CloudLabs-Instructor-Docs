@@ -21,7 +21,7 @@ b. To extend the user lab duration, follow the steps below:
 
 c. To send email to user with lab details, click on send invite button as shown below:
 
-![](images/email.png)
+![](images/sendinvite.png)
 
 >User will recieve email with lab details like:
 >Azure Username, Password
