@@ -30,7 +30,7 @@ c. To send email to user with lab details, click on send invite option as shown 
 d. You can also open the lab details page and send the URL to user by following below steps:
 * Open invite link in new tab:
 
- ![](images/labdetails.png)
+ ![](images/newtab.png)
 
 * Copy the URL form this tab, share with the user:
 
