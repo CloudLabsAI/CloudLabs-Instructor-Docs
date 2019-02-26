@@ -7,7 +7,7 @@ In the ON Demand Labs page open **Users** panel corresponding to the ODL as show
 
 a. You'll see the user list inside Users panel, click on lab status option to get more details:
 
- ![](images/labstatus01.png)
+ ![](images/userlab01.png)
 
 b. To extend the user lab duration, follow the steps below:
 * Click on extend duration option as shown below:
