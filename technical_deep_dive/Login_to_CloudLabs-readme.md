@@ -6,7 +6,7 @@
 
 1. Navigate to **CloudLabs Portal**: https://admin.cloudlabs.ai/
 
->**If you are not yet onboarded, reach out to cloudlabs@spektrasystems.com.**
+>**If you are not yet onboarded, reach out to cloudlabs-support@spektrasystems.com.**
 
 1. Click on **Log In** button on right top of the page
 
