@@ -34,7 +34,7 @@ d. You can also open the lab details page and send the URL to user by following 
 
 * Copy the URL form this tab, share with the user:
 
- ![](images/urllab.png)
+ ![](images/sendurl.png)
 
 e. Delete and Reset the user lab:
 
