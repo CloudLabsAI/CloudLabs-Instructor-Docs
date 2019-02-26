@@ -14,6 +14,7 @@
 4. If your Work account is onboarded, select Work or School account.
  ![](images/work.png)
 * Enter your credentials and Sign In.
+ 
  ![](images/worksign.png)
 5. If your LinkedIn account is onboarded, select LinkedIn account. 
 ![](images/linkedin.png)  
