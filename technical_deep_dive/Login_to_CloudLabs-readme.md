@@ -15,7 +15,7 @@
   ![](images/work.png)
 5. Enter your credentials and Sign In.
   
- ![](images/worksign.png)
+   ![](images/worksign.png)
 
 6. If your LinkedIn account is onboarded, select LinkedIn account. 
   ![](images/linkedin.png)  
