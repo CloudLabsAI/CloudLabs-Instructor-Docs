@@ -1,6 +1,6 @@
 [Home](./../README.md)
 
-# View Users Page
+# Manage User Labs
 In the ON Demand Labs page open **Users** panel corresponding to the ODL as shown below:
 
  ![](images/userspage.png)
