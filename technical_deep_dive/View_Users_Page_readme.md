@@ -1,6 +1,6 @@
 [Home](./../README.md)
 
-# Add and manage User to a Lab
+# Add and manage Users to a Lab
 In the ON Demand Labs page open **Users** panel corresponding to the ODL as shown below:
 
  ![](images/userspage.png)
