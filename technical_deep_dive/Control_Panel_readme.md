@@ -1,6 +1,6 @@
 [Home](./../README.md)
 
-# Control Panel:
+# Manage the VMs for the Labs:
 
 **You can manages the recources like VMs, Databricks Clusters, SQL data warehouse, and so on.. from Control panel.**
 1. Open the control panel as shown in below image. 
